@@ -29,6 +29,14 @@ Kiwi tratará los datos del usuario de manera manual y/o automatizada para las s
 
 Kiwi conservará los datos personales de los usuarios únicamente durante el tiempo necesario para la realización de las finalidades para las que fueron recogidos, mientras no revoque los consentimientos otorgados. Posteriormente, en caso de ser necesario, mantendrá la información bloqueada los plazos legalmente establecidos.
 
+## ¿Qué medidas de seguridad implantamos para cuidar sus datos?
+Kiwi, para proteger las diferentes tipologías de datos reflejados en esta política de privacidad, llevará a cabo las medidas de seguridad técnicas necesarias para evitar su pérdida, manipulación, difusión o alteración. En todo caso, estas medidas podrán consistir entre otras:
+
+- Encriptación de las comunicaciones entre el dispositivo del usuario y los servidores de Kiwi
+- Otras medidas que eviten el acceso a los datos del usuario por parte de terceros
+
+En aquellos casos en los que Kiwi cuente con prestadores de servicio para el mantenimiento del Sitio Web que se encuentren fuera de la Unión Europea, estas transferencias internacionales se hayan regularizadas atendiendo al compromiso de Kiwi con la protección, integridad y seguridad de los datos personales de los clientes.
+
 ## ¿Cuál es la legitimación para el tratamiento de sus datos?
 
 La legitimación para el tratamiento de los datos del usuario por parte de Kiwi para llevar a cabo el alta y registro del usuario en el Sitio Web se encuentra en el consentimiento del interesado, solicitado para el caso concreto.
