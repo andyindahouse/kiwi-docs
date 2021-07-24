@@ -54,3 +54,22 @@ Para cancelar tu pedido,
 2) Selecciona el pedido a cancelar y pulsa en el botón de "Gestionar pedido"
 3) En la pantalla de detalle de pedido pulsa sobre el botón "Cancelar pedido"
 
+## ¿Cuándo se añade mi compra a mi despensa?
+
+Una vez el Rider te ha entregado tu compra y el pedido se ha completado, todos los productos de tu compra aparecerán en la pantalla de "Mi despensa" automáticamente.
+
+## ¿Cómo marco productos consumidos de mi despensa?
+
+En la pantalla de "Mi despensa":
+
+1) Localiza el producto que quieres marcar como consumido
+2) Desliza el producto concreto hacia la izquierda y te aparecerá el botón de "Consumido", púlsalo y confirma en el botón "Sí" que has consumido este producto antes de que caducará.
+
+Una vez consumido tu producto será añadido a tu carrito para ahorrarte tiempo en la siguiente compra.
+
+## ¿Cuándo me avisará la aplicación de que tengo un producto próximo a caducarse?
+
+Si tienes activadas las notificaciones la aplicación te enviará una notificación 2 días antes para que lo tengas en cuenta y no dejes perder ese producto. También podrás consultar la fecha de caducidad de todos los productos en la pantalla "Mi despensa" y en la pantalla de "Inicio" donde se mostrarán en orden de fecha de caducidad.
+
+Puedes activar las notificaciones en la pantalla de "Tu cuenta" si no las activaste cuando te registraste. 
+
